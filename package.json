@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ohueter/aws-ecs-task-definition-set-environment#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "tmp": "^0.2.1"
+    "tmp": "^0.2.5"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.22.3",
